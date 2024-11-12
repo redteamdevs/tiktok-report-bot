@@ -1,5 +1,5 @@
 # tiktok-banner
-a free report app that bans tiktok accounts
+a report app that bans tiktok accounts
 
 REPORT APP V2.0.0
 
@@ -20,7 +20,6 @@ developer: https://t.me/pysmart 👨‍💻
 
 > Twitter 
 
-Do not sell this tool!
 
 You’re free to message me for full guide! 
 

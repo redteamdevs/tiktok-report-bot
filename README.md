@@ -1,5 +1,5 @@
 # tiktok-banner
-a report app that bans tiktok accounts
+a report app that MASS REPORTS tiktok accounts
 
 REPORT APP V2.0.0
 

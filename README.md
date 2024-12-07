@@ -1,6 +1,8 @@
 # tiktok-banner
 a report app that MASS REPORTS tiktok accounts
 
+developer: https://t.me/pysmart 👨‍💻
+
 REPORT APP V2.0.0
 
 for windows pc and macbook  
